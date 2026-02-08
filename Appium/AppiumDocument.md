@@ -1,4 +1,4 @@
-## Appium 자료
+## Appium Starter Kit
 
 ### 강의
 - [TTA 아카데미(유료)](https://edu.tta.or.kr/edu/contents.do?key=51)
