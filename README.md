@@ -9,7 +9,7 @@ QA 자동화 도구 설치 및 실행 튜토리얼 모음입니다.
 
 웹 브라우저 자동화 테스트를 위한 기본 구성과 실행 가이드입니다.
 
-- Python & Selenium 설치 가이드 → [link](PythonSelenium/PythonSeleniumDocument.md)
+- Python & Selenium 실행 가이드 → [link](Selenium/SeleniumTutorial.md)
 
 ---
 
